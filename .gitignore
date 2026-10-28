@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+capture-*.json
+**/mailcleaner-debug/
+/vendor/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db

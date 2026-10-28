@@ -1,0 +1,261 @@
+# Mail Cleaner translations. GPL-3.0-or-later.
+msgid ""
+msgstr "Project-Id-Version: Mail Cleaner 2.0.0\nLanguage: en_GB\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "100% allows a long signature after a short reply. Empty-result, attachment and GLPI marker protections still apply. Use this limit only with a precisely tested rule."
+msgstr "100% allows a long signature after a short reply. Empty-result, attachment and GLPI marker protections still apply. Use this limit only with a precisely tested rule."
+
+msgid "A selector exceeds 512 bytes."
+msgstr "A selector exceeds 512 bytes."
+
+msgid "After"
+msgstr "After"
+
+msgid "After: %s"
+msgstr "After: %s"
+
+msgid "Before"
+msgstr "Before"
+
+msgid "Before / after preview"
+msgstr "Before / after preview"
+
+msgid "CSS selectors to remove (one per line)"
+msgstr "CSS selectors to remove (one per line)"
+
+msgid "Cannot create capture directory."
+msgstr "Cannot create capture directory."
+
+msgid "Cannot create capture file."
+msgstr "Cannot create capture file."
+
+msgid "Cannot lock capture directory."
+msgstr "Cannot lock capture directory."
+
+msgid "Cannot open capture lock."
+msgstr "Cannot open capture lock."
+
+msgid "Capture diagnostics"
+msgstr "Capture diagnostics"
+
+msgid "Capture folder: %s"
+msgstr "Capture folder: %s"
+
+msgid "Capture write failed: %s"
+msgstr "Capture write failed: %s"
+
+msgid "Capture written to: %s"
+msgstr "Capture written to: %s"
+
+msgid "Captures contain message bodies, rules and results, including in dry run. Limits: 20 files and 256 KiB per body version. This is not the original MIME email. Disable capture after testing and remove the files after analysis."
+msgstr "Captures contain message bodies, rules and results, including in dry run. Limits: 20 files and 256 KiB per body version. This is not the original MIME email. Disable capture after testing and remove the files after analysis."
+
+msgid "Clean signatures from collected followups"
+msgstr "Clean signatures from collected followups"
+
+msgid "Clean signatures from collected followups and use GLPI theme colors for incoming tickets and followups. Manual entries are excluded."
+msgstr "Clean signatures from collected followups and use GLPI theme colors for incoming tickets and followups. Manual entries are excluded."
+
+msgid "Cleaning completed"
+msgstr "Cleaning completed"
+
+msgid "Cleaning rules"
+msgstr "Cleaning rules"
+
+msgid "Cleaning was skipped because of invalid settings or a processing error."
+msgstr "Cleaning was skipped because of invalid settings or a processing error."
+
+msgid "Color normalization failed; the previous content was kept."
+msgstr "Color normalization failed; the previous content was kept."
+
+msgid "Colors were kept because normalization would change a protected marker."
+msgstr "Colors were kept because normalization would change a protected marker."
+
+msgid "Could not parse the HTML body"
+msgstr "Could not parse the HTML body"
+
+msgid "Cut after anchor: also remove quoted history and Outlook reply headers"
+msgstr "Cut after anchor: also remove quoted history and Outlook reply headers"
+
+msgid "Cut everything after these CSS anchors (one per line, optional)"
+msgstr "Cut everything after these CSS anchors (one per line, optional)"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Dry run: keep the original ticket and followup content"
+msgstr "Dry run: keep the original ticket and followup content"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Examples:"
+msgstr "Examples:"
+
+msgid "GLPI_LOG_DIR is not defined."
+msgstr "GLPI_LOG_DIR is not defined."
+
+msgid "HTML is displayed as escaped source. Email scripts, styles and tracking pixels are not executed by this preview."
+msgstr "HTML is displayed as escaped source. Email scripts, styles and tracking pixels are not executed by this preview."
+
+msgid "HTML/XML declaration rejected"
+msgstr "HTML/XML declaration rejected"
+
+msgid "Hello, the issue is resolved. Thank you for your help."
+msgstr "Hello, the issue is resolved. Thank you for your help."
+
+msgid "Incomplete capture write."
+msgstr "Incomplete capture write."
+
+msgid "Invalid or unsupported CSS selector: %s"
+msgstr "Invalid or unsupported CSS selector: %s"
+
+msgid "Kind regards, Alice"
+msgstr "Kind regards, Alice"
+
+msgid "Matched content is protected"
+msgstr "Matched content is protected"
+
+msgid "Matches"
+msgstr "Matches"
+
+msgid "Maximum content removed (%)"
+msgstr "Maximum content removed (%)"
+
+msgid "Message exceeds the size limit"
+msgstr "Message exceeds the size limit"
+
+msgid "No capture was written: the 20-file limit was reached or the folder cannot be listed."
+msgstr "No capture was written: the 20-file limit was reached or the folder cannot be listed."
+
+msgid "No matching element"
+msgstr "No matching element"
+
+msgid "Not requested"
+msgstr "Not requested"
+
+msgid "Paste the HTML received by GLPI after collector processing. Preview works while disabled or in dry run, saves no settings and creates no ticket or followup."
+msgstr "Paste the HTML received by GLPI after collector processing. Preview works while disabled or in dry run, saves no settings and creates no ticket or followup."
+
+msgid "Plain text kept unchanged"
+msgstr "Plain text kept unchanged"
+
+msgid "Preview generated using the displayed rules. Settings were not saved."
+msgstr "Preview generated using the displayed rules. Settings were not saved."
+
+msgid "Preview without saving"
+msgstr "Preview without saving"
+
+msgid "Processing error"
+msgstr "Processing error"
+
+msgid "Processing options"
+msgstr "Processing options"
+
+msgid "Protected CSS selectors (one per line)"
+msgstr "Protected CSS selectors (one per line)"
+
+msgid "Protected text markers (one per line)"
+msgstr "Protected text markers (one per line)"
+
+msgid "Pseudo-elements, browser states and :has() are not supported."
+msgstr "Pseudo-elements, browser states and :has() are not supported."
+
+msgid "Quotes are protected unless explicit history removal is enabled for cut-after rules. These safeguards cannot identify every meaningful part of an email: test real examples first."
+msgstr "Quotes are protected unless explicit history removal is enabled for cut-after rules. These safeguards cannot identify every meaningful part of an email: test real examples first."
+
+msgid "Refusing linked capture directory."
+msgstr "Refusing linked capture directory."
+
+msgid "Refusing linked capture lock."
+msgstr "Refusing linked capture lock."
+
+msgid "Removal deletes the matched element and its children. Cut-after keeps the anchor and removes following content across parent boundaries. Multiple matches for one anchor rule cancel cleaning. Lines starting with // are comments."
+msgstr "Removal deletes the matched element and its children. Cut-after keeps the anchor and removes following content across parent boundaries. Multiple matches for one anchor rule cancel cleaning. Lines starting with // are comments."
+
+msgid "Removed blocks: %d; protected matches: %d"
+msgstr "Removed blocks: %d; protected matches: %d"
+
+msgid "Save settings"
+msgstr "Save settings"
+
+msgid "Saved capture setting: %s"
+msgstr "Saved capture setting: %s"
+
+msgid "Selector"
+msgstr "Selector"
+
+msgid "Sender colors removed; the GLPI theme is inherited"
+msgstr "Sender colors removed; the GLPI theme is inherited"
+
+msgid "Settings saved."
+msgstr "Settings saved."
+
+msgid "Signature processing: %s"
+msgstr "Signature processing: %s"
+
+msgid "Skipped: a protected marker would change"
+msgstr "Skipped: a protected marker would change"
+
+msgid "Skipped: an anchor rule matched more than once"
+msgstr "Skipped: an anchor rule matched more than once"
+
+msgid "Skipped: anchor outside the message body"
+msgstr "Skipped: anchor outside the message body"
+
+msgid "Skipped: more than 100 matched elements"
+msgstr "Skipped: more than 100 matched elements"
+
+msgid "Skipped: removal limit exceeded"
+msgstr "Skipped: removal limit exceeded"
+
+msgid "Skipped: the result would be empty"
+msgstr "Skipped: the result would be empty"
+
+msgid "Temporary diagnostics: capture HTML before and after processing (20 files maximum)"
+msgstr "Temporary diagnostics: capture HTML before and after processing (20 files maximum)"
+
+msgid "Test HTML"
+msgstr "Test HTML"
+
+msgid "Test writing a synthetic capture"
+msgstr "Test writing a synthetic capture"
+
+msgid "The removal limit must be between 1 and 100 percent."
+msgstr "The removal limit must be between 1 and 100 percent."
+
+msgid "The selector list is missing or too long."
+msgstr "The selector list is missing or too long."
+
+msgid "The test HTML must not exceed 1 MiB."
+msgstr "The test HTML must not exceed 1 MiB."
+
+msgid "Theme colors work independently of signature cleaning. Sender colors, backgrounds and stylesheets are removed so each reader uses their own GLPI theme. Images are not recolored. Existing tickets are unchanged."
+msgstr "Theme colors work independently of signature cleaning. Sender colors, backgrounds and stylesheets are removed so each reader uses their own GLPI theme. Images are not recolored. Existing tickets are unchanged."
+
+msgid "This confirms write access for the web process, not receipt of an email by the collector."
+msgstr "This confirms write access for the web process, not receipt of an email by the collector."
+
+msgid "Unchanged"
+msgstr "Unchanged"
+
+msgid "Unknown action."
+msgstr "Unknown action."
+
+msgid "Use GLPI theme colors for email text (tickets and followups)"
+msgstr "Use GLPI theme colors for email text (tickets and followups)"
+
+msgid "Use no more than 30 markers and 4096 bytes."
+msgstr "Use no more than 30 markers and 4096 bytes."
+
+msgid "Use no more than 50 selectors per list."
+msgstr "Use no more than 50 selectors per list."
+
+msgid "Version: %s"
+msgstr "Version: %s"
+
+msgid "Write a technical log without message bodies"
+msgstr "Write a technical log without message bodies"
+
+msgid "Your session has expired or the request is invalid. Reload this page."
+msgstr "Your session has expired or the request is invalid. Reload this page."
